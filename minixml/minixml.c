@@ -42,5 +42,6 @@ int main()
 
 	Imagedata = mxmlFindElement(group, tree, "ImageData16x14", NULL, NULL, MXML_DESCEND);
 	printf("%s\n", Imagedata->child->value.element.name);
+	return 0;
 }
 
