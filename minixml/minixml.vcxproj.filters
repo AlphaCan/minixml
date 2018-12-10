@@ -23,5 +23,8 @@
     <ClInclude Include="mxml.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="minixml.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
